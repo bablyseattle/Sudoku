@@ -1,0 +1,17 @@
+td {
+  border:1px solid black;
+  width:40px;
+  height:40px;
+  text-align:center;
+  cursor:pointer;
+}
+
+.numberSelector {
+  background-color:blue;
+  color:yellow;
+  font-family:Arial,Sans-Serif;
+}
+.selectedNumber {
+  background-color:yellow;
+  color:blue;
+}
